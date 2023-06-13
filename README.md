@@ -31,4 +31,4 @@ In addition, she is also concerned about the inventory status at this point. She
 
 *Note: Maven Toys is a fictitious company and the person Martha Quaife is made-up also.
 
-(Data Source: Maven Analytics)
+_(Data Source: Maven Analytics)_
