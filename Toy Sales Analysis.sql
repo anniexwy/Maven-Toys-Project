@@ -1,8 +1,8 @@
 ----First, I created a schema called "mexicotoysales" to store the tables for analysis. Four tables are included in this schema: 
-----inventory (incl. store id for each stores, product id for each products & stock on hand for each stores, divided by products),
-----products (incl. product id for each stores, product name, product category, cost of each type of product & price of each type of product)
-----sales (incl. sale id for each purchase record, dates for the purchases, store id for each stores, product id for each stores & units sold for each purchase)
-----stores (incl. store id for each stores, store name for each stores, city where the stores loacated in, type of store location & the date the stores opened)
+----inventory (incl. store id for each store, product id for each product & stock on hand for each store, divided by products),
+----products (incl. product id for each store, product name, product category, cost of each type of product & price of each type of product)
+----sales (incl. sale id for each purchase record, dates for the purchases, store id for each store, product id for each store & units sold for each purchase)
+----stores (incl. store id for each store, store name for each store, city where the stores loacated in, type of store location & the date the stores opened)
 
 ----Then, I conducted the analysis below
 
