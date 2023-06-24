@@ -1,6 +1,6 @@
 # Maven-Toys-Project
 
-### Backgrounds & Goals for the Maven Toys Project
+### Background & Goals for the Project
 
 Maven Toys is a company which owns a chain of retail stores across Mexico, and has been selling toys, games, electronics and other types of products for about two years. The company approached you on Septemeber 30, 2018 and asked you to do some analysis for their sales performance in the past and inventory on this particular day, so that they could decide whether to adjust some of their strategies or not. 
 
